@@ -1,4 +1,4 @@
-# psychopy_hearing_vs_reading
+# psychopy_listening_vs_reading
 
 This repository is the supplementary material for the "Do we hear and read the same? Attention to detail in narrative storytelling while reading and listening with reduced distraction".
 
