@@ -1,1 +1,1 @@
-# cognitive_head_read
+# psychopy_hearing_vs_reading
